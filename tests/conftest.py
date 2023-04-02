@@ -1,6 +1,6 @@
 import pytest
-from utils.transfer_data import TransferData
 
+from Course_work_module_3.utils.transfer_data import TransferData
 
 @pytest.fixture
 def test_class():
